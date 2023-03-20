@@ -1,6 +1,6 @@
 ### Hi This is SysRust
 
-一個基於興趣而發起的開源讀書會, 主要目標是希望未來可以用Rust開發出簡單版的實作
+一個基於興趣而發起的開源讀書會, 希望有伴可以一起念相關知識, 如果可以互相分享更好, 如果可以一起開發也很不錯, 推薦幾個不錯的開發目標
 1. Toy OS-Kernel
 2. Toy Compiler
 3. Toy Virtual Machine
@@ -9,6 +9,12 @@
 1. Rust (主要)
 2. C/C++ ( Study的時候難免遇到 )
 3. NASM ( 開機程式會需要使用 )
+
+### 目前使用工具書
+1. Rust/ Programming Rust: Fast, Safe Systems Development 
+2. OS/ 恐龍書
+3. OS/ Practical System Programming for Rust
+
 
 ### 進行方式
 1. 讀書會互相分享
